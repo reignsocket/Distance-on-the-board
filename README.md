@@ -1,7 +1,6 @@
 Problem Description  
     Chess board is a black and white 8 * 8 square, with the pieces in the middle of the grid.    
     ![image](https://github.com/reignsocket/Distance-on-the-board/blob/master/picture.png)  
-      
     The rules for the king, the rear, the car, and the elephant are as follows:  
          Wang: You can walk horizontally, straight or diagonally, but you can walk one step at a time.  
          After: Horizontal, straight, and oblique can go, and the number of steps per step is not limited.  
