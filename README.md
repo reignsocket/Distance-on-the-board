@@ -6,6 +6,5 @@ Problem Description
          After: Horizontal, straight, and oblique can go, and the number of steps per step is not limited.  
          Car: Both horizontal and vertical can go, can not walk obliquely, the number of cells is not limited.  
          Elephant: You can only walk diagonally, and the number of cells is not limited.  
-        
      Write a program that gives the starting position and the target position, and calculates the king, the rear, the car, and the image    from the starting position to the target position.The minimum number of steps required.
     
