@@ -3,7 +3,7 @@ Problem Description
     ![image](https://github.com/reignsocket/Distance-on-the-board/blob/master/picture.png)    
     
     
-    
+    !
     The rules for the king, the rear, the car, and the elephant are as follows:    
     
          Wang: You can walk horizontally, straight or diagonally, but you can walk one step at a time.  
